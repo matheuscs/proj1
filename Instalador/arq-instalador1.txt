@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 meu instalador master
 meu instalador master2
-=======
-TESTANDO instalador
->>>>>>> testando-instalador
